@@ -1,0 +1,15 @@
+.food_img_container .Img-container{
+    height: 200px;
+}
+.display_items_Content{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 2px 1px 10px rgba(240, 217, 217, 0.746);
+    margin: 10px;
+}
+.list_info{
+font-size: 15px;
+}

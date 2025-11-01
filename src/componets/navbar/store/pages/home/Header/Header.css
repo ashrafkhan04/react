@@ -1,0 +1,14 @@
+.content-header{
+    width: 50%;
+    color: aliceblue;
+    position: absolute;
+    top: 100px;
+}
+.header-container{
+    background: url("./backgraund.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vw;
+    position: relative;
+    margin-top:-23px;
+}

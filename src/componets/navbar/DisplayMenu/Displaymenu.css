@@ -1,0 +1,9 @@
+.display-container{
+    margin-top: 30px;
+    font-size: 2rem;
+}
+.display_food{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    pad: 10px;
+}
